@@ -13,10 +13,12 @@ export default function Home() {
         {/* route */}
         <li><a href='/sub'>/pages/sub/index.js</a></li>
         <li><a href='/sub/about'>/pages/sub/about.js</a></li>
-        {/* 경로에 파리머티가 포함될 때 */}
+        {/* 경로에 파라미터가 포함될 때 */}
         <li><a href='/sub/1'>/pages/sub/[id].js</a></li>
         <li><a href='/sub/2'>/pages/sub/[id].js</a></li>
       </ul>
+
+      {/* API Route */}
     </>
   )
 }
