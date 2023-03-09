@@ -16,6 +16,7 @@ export default function Home() {
         {/* 경로에 파라미터가 포함될 때 */}
         <li><a href='/sub/1'>/pages/sub/[id].js</a></li>
         <li><a href='/sub/2'>/pages/sub/[id].js</a></li>
+        <li><a href='/sub/fetch'>/page/sub/fetch.js</a></li>
       </ul>
 
       {/* API Route */}
