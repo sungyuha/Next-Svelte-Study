@@ -5,6 +5,8 @@
 <main>
 	<h1>Hello {name}!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<!-- 버튼 기능 -->
+	<button on:click={() => {name = 'sung' }}>버튼</button> <!-- state 변경 -> name에서 sung으로! -->
 </main>
 
 <style>
