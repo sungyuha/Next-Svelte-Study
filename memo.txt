@@ -38,5 +38,5 @@ vercel란
 
 Remix란
 
-*장정 : 리액트 Server-side에서 Renderind 가능 (사이트 속도가 빠름)
+*장정 : 리액트 Server-side에서 Rendering 가능 (사이트 속도가 빠름)
     - 서버와 유저간 전송 / 수신 매우 쉬움
