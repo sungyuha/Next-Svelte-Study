@@ -35,3 +35,8 @@ Svelte 란
 vercel란
 
 - Next.js 에서 제공하는 배포 플랫폼으로 [빌드 + 배포 + 호스팅] 서비스를 제공
+
+Remix란
+
+*장정 : 리액트 Server-side에서 Renderind 가능 (사이트 속도가 빠름)
+    - 서버와 유저간 전송 / 수신 매우 쉬움
