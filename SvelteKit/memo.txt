@@ -1,0 +1,6 @@
+Routing
+- 스벨트킷은 file-system based routing mechanism
+- 스벨트킷이 정한 라우팅 컨벤션을 지켜야 함
+
+Routing Conventions
+- 라우트는 src 폴더 안에 routes 폴더 안에 작성
