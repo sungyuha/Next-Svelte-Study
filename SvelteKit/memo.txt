@@ -4,3 +4,12 @@ Routing
 
 Routing Conventions
 - 라우트는 src 폴더 안에 routes 폴더 안에 작성
+
+Catch All Routes
+- 다이나믹 라우팅을 구현하는 다른 방법
+- 장점 : docs 페이지 (mdnm w3schools, svelteKit API 사이트)
+- 왜 사용하면 좋은지 : dosc 페이지 layout은 다 똑같이 생김(주제에 따라 url만 다름)
+ex. 10개의 주제, 5개의 소항목을 가진 페이지
+    -> 만약 다이나믹 라우팅이 없다면? => 10 items x 5 content = 50개
+
+    -> 다이나믹 라우팅 적용 시 => 1 [items] x 1[contentId]
